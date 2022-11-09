@@ -1,0 +1,29 @@
+{
+  "name": "nileco",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^12.3.1",
+    "antd": "^4.23.2",
+    "babel-plugin-styled-components": "^2.0.7",
+    "compression-webpack-plugin": "^10.0.0",
+    "framer-motion": "^7.5.3",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-next": "12.3.1",
+    "prettier": "^2.5.1",
+    "webpack-bundle-analyzer": "^4.6.1"
+  }
+}
